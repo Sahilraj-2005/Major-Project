@@ -1,0 +1,17 @@
+streamlit
+langchain
+langchain-community
+langchain-groq
+langchain-huggingface
+langchain-text-splitters
+langchain-chroma
+chromadb
+pypdf
+python-dotenv
+tiktoken
+sentence-transformers
+openpyxl
+rapidocr-onnxruntime
+pandas
+pymupdf 
+pillow
