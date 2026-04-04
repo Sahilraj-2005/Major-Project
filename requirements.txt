@@ -14,7 +14,7 @@ langchain-huggingface
 langchain-text-splitters
 
 # --- Vector Store & Models ---
-pinecone-client==3.0.3
+pinecone
 sentence-transformers
 tiktoken
 
