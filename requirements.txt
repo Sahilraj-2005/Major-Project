@@ -1,17 +1,29 @@
+# --- Core Framework & Data ---
 streamlit
+pandas<3.0.0
+numpy<2.0.0
+python-dotenv
+
+# --- LangChain Ecosystem ---
 langchain
 langchain-community
-langchain-groq
+langchain-core
+langchain-openai
+langchain-pinecone
 langchain-huggingface
 langchain-text-splitters
-langchain-chroma
-chromadb
-pypdf
-python-dotenv
-tiktoken
+
+# --- Vector Store & Models ---
+pinecone-client
 sentence-transformers
-openpyxl
+tiktoken
+
+# --- Document Processing & OCR ---
+pymupdf
 rapidocr-onnxruntime
-pandas
-pymupdf 
 pillow
+openpyxl
+
+# --- Evaluation Pipeline ---
+ragas
+datasets
